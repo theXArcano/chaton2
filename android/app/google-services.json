@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "955026876669",
+    "project_id": "chatfl-251ec",
+    "storage_bucket": "chatfl-251ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955026876669:android:e087c1bd12b661a2d13694",
+        "android_client_info": {
+          "package_name": "thexarcano.com.chat2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955026876669-kgl26h97kdrrgsaj2qcsm2tn4rsppm73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "thexarcano.com.chat2",
+            "certificate_hash": "e028e4b0603b76d5cdb27a4055a38d8139e89be7"
+          }
+        },
+        {
+          "client_id": "955026876669-9oue69bk4qbmcbbt0o3recje22tanb54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGnOvZ84IxueXFMrZkViHPMWTue-bigW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955026876669-9oue69bk4qbmcbbt0o3recje22tanb54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
